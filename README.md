@@ -1,2 +1,2 @@
 # zooming-cubes
-### just tryna learn how to use three.js
+just tryna learn how to use three.js
